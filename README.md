@@ -1,6 +1,6 @@
 # Youtube Shorts to Normal Video (STNV)
 This extension automatically changes the "Shorts" video link to a Normal one on Youtube.
-(Only works on Chromium based browsers).
+(For Chromium based browsers only).
 
 ## Instalation
 To install the extension make sure to enable "Developer Mode" on your browser Extensions page, then simply drag and drop the .crx file to it.
