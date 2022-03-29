@@ -1,4 +1,4 @@
-# Youtube-Shorts-to-Normal-Video
+# Youtube Shorts to Normal Video (STNV)
 This extension converts Shorts format videos to Normal videos automatically on Youtube.
 
 ## Instalation
