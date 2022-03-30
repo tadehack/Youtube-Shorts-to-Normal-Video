@@ -5,7 +5,7 @@ This extension automatically changes the "Shorts" video link to a Normal one on 
 # Instalation
 
 ## Microsoft Edge
-1 - Extract the files
+1 - Extract the files </br>
 2 - Enable "Developer Mode" on edge://extensions/ (located on the left-hand side)
 3 - Drag and drop STNV.crx to edge://extensions/
 4 - Click on "Add Extension" on the popup box
