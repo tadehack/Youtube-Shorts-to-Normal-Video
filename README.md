@@ -10,7 +10,8 @@ This extension automatically changes the "Shorts" video link to a Normal one on 
 1 - Extract the files </br>
 2 - Enable "Developer Mode" on your browser's extensions page </br>
 3 - Drag and drop STNV.crx to the extensions page </br>
-4 - Click on "Add Extension" on the popup box </br>
+4 - (Edge) Click on "Add Extension" on the popup box </br>
+4.1 - (Opera) Click on "Install" and then "Yes, install"
 
 ## Google Chrome, Brave and others
 1 - Extract the files </br>
