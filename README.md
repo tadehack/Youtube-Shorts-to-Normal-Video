@@ -6,9 +6,9 @@ This extension automatically changes the "Shorts" video link to a Normal one on 
 
 -Download STNV_v1.0.zip from the [Releases](https://github.com/tadehack/Youtube-Shorts-to-Normal-Video/releases/tag/1.0) page
 
-## Microsoft Edge
+## Microsoft Edge and Opera
 1 - Extract the files </br>
-2 - Enable "Developer Mode" on edge://extensions/ (located on the left-hand side) </br>
+2 - Enable "Developer Mode" on your borwser's extensions page </br>
 3 - Drag and drop STNV.crx to the extensions page </br>
 4 - Click on "Add Extension" on the popup box </br>
 
