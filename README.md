@@ -2,7 +2,7 @@
 This extension automatically changes the "Shorts" video link to a Normal one on Youtube. </br>
 (For Chromium based browsers only).
 
-# Instalation
+# Installation
 
 -Download STNV_v1.0.zip from the [Releases](https://github.com/tadehack/Youtube-Shorts-to-Normal-Video/releases/tag/1.0) page
 
