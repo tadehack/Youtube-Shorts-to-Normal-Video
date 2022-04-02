@@ -4,7 +4,7 @@ This extension automatically changes the "Shorts" video link to a Normal one on 
 
 # Installation
 
--Download STNV_v1.0.zip from the [Releases](https://github.com/tadehack/Youtube-Shorts-to-Normal-Video/releases/tag/1.0) page
+- Download STNV_v1.0.zip from the [Releases](https://github.com/tadehack/Youtube-Shorts-to-Normal-Video/releases/tag/1.0) page
 
 ## Microsoft Edge and Opera
 - Extract the files </br>
