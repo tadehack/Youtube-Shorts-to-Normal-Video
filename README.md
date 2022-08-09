@@ -19,5 +19,5 @@ This extension automatically changes the "Shorts" video link to a Normal one on 
 - Click on "Load Unpacked" </br>
 - Select the "STNV" folder </br>
 
-# How to use
+# How to use (Important)
 You must open the "Shorts" video on a new tab, otherwise you will have to refresh the page for it to work (no solution for this yet).
